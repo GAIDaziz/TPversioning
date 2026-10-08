@@ -12,3 +12,8 @@ git log --oneline --graph --all
 * 3c714c5 mission1 partie1 creation du index html
 
 le nombre de la liste git rev-list --count HEAD. nombre 6
+
+### MISSION 8
+
+J'AI CHOISIE git reset --soft HEAD~1
+git reset --hard HEAD~1` aurait supprimé le commit
